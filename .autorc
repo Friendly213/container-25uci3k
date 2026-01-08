@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Friendly213",
+  "repo": "container-25uci3k",
+  "name": "Friendly213",
+  "email": "personalityoftheuser@gmail.com",
+}
